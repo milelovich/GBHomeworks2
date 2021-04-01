@@ -1,5 +1,6 @@
 package homework5;
 
+
 public class Main {
     private static final int size = 10000000;
     private static final int h = size / 2;
